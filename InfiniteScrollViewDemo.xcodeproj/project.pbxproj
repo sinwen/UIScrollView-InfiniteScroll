@@ -428,7 +428,7 @@
 				GCC_WARN_UNUSED_LABEL = YES;
 				GCC_WARN_UNUSED_PARAMETER = YES;
 				INFOPLIST_FILE = InfiniteScrollViewDemo/Info.plist;
-				PRODUCT_BUNDLE_IDENTIFIER = "ru.codeispoetry.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_BUNDLE_IDENTIFIER = com.esecure.ios.jetco.sdkSampleApp003;
 				PRODUCT_NAME = "Infinite Scroll";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TVOS_DEPLOYMENT_TARGET = 9.0;
@@ -445,7 +445,7 @@
 				GCC_WARN_UNUSED_LABEL = YES;
 				GCC_WARN_UNUSED_PARAMETER = YES;
 				INFOPLIST_FILE = InfiniteScrollViewDemo/Info.plist;
-				PRODUCT_BUNDLE_IDENTIFIER = "ru.codeispoetry.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_BUNDLE_IDENTIFIER = com.esecure.ios.jetco.sdkSampleApp003;
 				PRODUCT_NAME = "Infinite Scroll";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TVOS_DEPLOYMENT_TARGET = 9.0;
