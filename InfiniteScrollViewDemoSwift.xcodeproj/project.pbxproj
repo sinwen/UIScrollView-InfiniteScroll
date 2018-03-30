@@ -149,7 +149,7 @@
 				TargetAttributes = {
 					58279BBD1AF6AC5D0075D88A = {
 						CreatedOnToolsVersion = 6.3.1;
-						DevelopmentTeam = PR2A98QJ89;
+						DevelopmentTeam = 45M67B7N2Q;
 						LastSwiftMigration = 0910;
 					};
 				};
@@ -323,7 +323,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
-				DEVELOPMENT_TEAM = PR2A98QJ89;
+				DEVELOPMENT_TEAM = 45M67B7N2Q;
 				INFOPLIST_FILE = InfiniteScrollViewDemoSwift/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "ru.codeispoetry.Infinite-Scroll-Swift";
@@ -340,7 +340,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
-				DEVELOPMENT_TEAM = PR2A98QJ89;
+				DEVELOPMENT_TEAM = 45M67B7N2Q;
 				INFOPLIST_FILE = InfiniteScrollViewDemoSwift/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "ru.codeispoetry.Infinite-Scroll-Swift";
